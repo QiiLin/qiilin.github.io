@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Qi Lin # your name (or website title) here
+logo: "/images/icon.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  An articulate and self-motivated software developer with a passion for developing, designing, and producing innovative products that make differences in the user workflow. With in-depth knowledge of the software development cycle and work experiences in software development. I have a proven ability in researching and developing reliable software products that are efficient and designed to meet the need of the customers.  I am excited about the possibility of learning new technology and making contributions to the company.  
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/qii-lin/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
