@@ -53,7 +53,7 @@ Ministry of Government and Consumer Service Jan. 2018 - April. 2018
 Application Programmer Analyst	- Internship, 5775 Yonge St, 3rd Floor, Toronto ON M2M 4J1
 - Implemented a chatbot on the web system portal to provide a quick, easy, and accessible way for the user to navigate through the info. 
 - Developed and deployed a (data navigator) web application on the Microsoft Azure cloud platform. It provides the user with a simple and powerful way for data visualization (table, trend, report). 
-- Technologies involved: JavaScript, HTML/CSS, Angular5, MongoDB, Azure Bot-Frameworks 
+- Technologies involved: JavaScript, HTML/CSS, Angular5, MongoDB, Azure Bot-Frameworks
 
 ---
 
