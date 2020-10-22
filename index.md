@@ -7,7 +7,7 @@ I am a recent new graduate from the computer science specialist program at the U
 In the past few years, I have developed a good understanding of programing language such as Java, JavaScript, 
 Python, C. In addition, I gained a good grasp of algorithm design and machine learning concepts. I am looking forward to applying those skills in my future position. 
 
-I am currently seeking a full-time/internship software engineer ole around Canada. 
+I am currently seeking a full-time/internship software engineer role around Canada. 
 
 ---
 
