@@ -10,7 +10,7 @@ Python, C. In addition, I gained a good grasp of algorithm design and machine le
 I am currently seeking a full-time/internship software engineer ole around Canada. 
 
 ---
-### Skills
+### Technical Skills
 - Programing Lanuange experience: 
   - Java (2 years of experience)
   - JavaScript (2 years of experience)
