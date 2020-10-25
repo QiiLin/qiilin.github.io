@@ -11,6 +11,16 @@ I am currently seeking a full-time/internship software engineer role around Cana
 
 ---
 
+### Projects
+
+- [Online video Edit Platform](https://github.com/QiiLin/project-team-pepega-)
+<img src="images/proj1.gif?raw=true"/>
+
+- [mozilla multi-account-containers - completed features](https://github.com/CSCD01/multi-account-containers-team05)
+<img src="images/proj2.gif?raw=true"/>
+---
+
+
 ### Technical Skills
 - Programing Lanuange experience: 
   - Java (2 years of experience)
@@ -60,14 +70,5 @@ Application Programmer Analyst	- Internship, 5775 Yonge St, 3rd Floor, Toronto O
 - Developed and deployed a (data navigator) web application on the Microsoft Azure cloud platform. It provides the user with a simple and powerful way for data visualization (table, trend, report). 
 - Technologies involved: JavaScript, HTML/CSS, Angular5, MongoDB, Azure Bot-Frameworks
 
----
-
-### Projects
-
-- [Online video Edit Platform](https://github.com/QiiLin/project-team-pepega-)
-<img src="images/proj1.gif?raw=true"/>
-
-- [mozilla multi-account-containers - completed features](https://github.com/CSCD01/multi-account-containers-team05)
-<img src="images/proj2.gif?raw=true"/>
 ---
 
