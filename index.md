@@ -69,3 +69,7 @@ Application Programmer Analyst	- Internship, 5775 Yonge St, 3rd Floor, Toronto O
 
 ---
 
+[mozilla/multi-account-containers - completed features] (https://github.com/CSCD01/multi-account-containers-team05)
+<img src="images/proj2.gif?raw=true"/>
+---
+
