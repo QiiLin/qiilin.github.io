@@ -64,5 +64,8 @@ Application Programmer Analyst	- Internship, 5775 Yonge St, 3rd Floor, Toronto O
 
 ### Projects
 
+[Online video Edit Platform](https://github.com/QiiLin/project-team-pepega-)
+<img src="images/proj1.gif?raw=true"/>
+
 ---
 
