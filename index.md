@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-I am a recent new graduate from the computer science specialist program at the University of Toronto.
+I am a fourth year student from the computer science specialist program at the University of Toronto.
 In the past few years, I have developed a good understanding of programing language such as Java, JavaScript, 
 Python, C. In addition, I gained a good grasp of algorithm design and machine learning concepts. I am looking forward to applying those skills in my future position. 
 
