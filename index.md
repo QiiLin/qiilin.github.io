@@ -38,7 +38,7 @@ I am currently seeking a full-time/internship software engineer role around Cana
 
 ### Education 
 
-University of Toronto	Scarborough Sept. 2016 - Aug. 2020 <br>
+University of Toronto	Scarborough Sept. 2016 - Dec. 2020 <br>
 Bachelor of Science Software Engineering 2020
 - CGPA 3.79/4.0 
 - Achieved Distinguished Marks: Software Tools and Systems Programming, Design and Analysis of Data Structure, Introduction to Database, Introduction to Numerical Algorithms
