@@ -16,7 +16,7 @@ I am currently seeking a full-time/internship software engineer role around Cana
 - [Online video Edit Platform](https://github.com/QiiLin/project-team-pepega-)
 <img src="images/proj1.gif?raw=true"/>
 
-- [mozilla multi-account-containers - completed features](https://github.com/CSCD01/multi-account-containers-team05)
+- [mozilla multi-account-containers - completed the issues #1607 ](https://github.com/CSCD01/multi-account-containers-team05)
 <img src="images/proj2.gif?raw=true"/>
 ---
 
