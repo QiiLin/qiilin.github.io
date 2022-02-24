@@ -3,11 +3,9 @@
 ---
 
 ### About Me
-I am a fourth year student from the computer science specialist program at the University of Toronto.
+I graduated from the computer science specialist program at the University of Toronto.
 In the past few years, I have developed a good understanding of programing language such as Java, JavaScript, 
 Python, C. In addition, I gained a good grasp of algorithm design and machine learning concepts. I am looking forward to applying those skills in my future position. 
-
-I am currently seeking a full-time/internship software engineer role around Canada. 
 
 ---
 
@@ -47,10 +45,18 @@ Bachelor of Science Software Engineering 2020
 
 
 ### Work Experience
+
+Veeva System April. 2021 -> Present 
+- Collaborated with Amazon Web Service team to design/implement the remote audit proof of concept project which successfully demonstrates its business value and converts the remote audit idea as a new project starting Jun 2022.
+- Designed and implemented several new hazard analysis process-related features on the Veeva vault platform to improve the hazard analysis workflow efficiency by 32% and automate the hazard data configuration process.
+- Led the migration of the Veeva platform team feature from vault platform to QualityOne app project to support the team role assignment in auditing workflow for the consumer product & chemical industry users.
+- Rollbacked on an existing feature to avoid invalid usage of the product data model and executed data migration solution for any impacted data record to reduce the risk of confusion on the end-user.
+- Technologies involved: Java, React, Redux, Spring Framework, JUnit, Jest, MySQL, Some other Veeva internal technologies
+
 Omnia AI, Deloitte Canada Sept. 2019 - Dec. 2019 
 Software Developer	-Internship, 8 Adelaide St West, Toronto, ON, M5H 1L6 
 - Worked with the Spine back-end development team to build and deploy the security management project that enhances the efficiency and usability of the other AI-driven cybersecurity projects.  
--  Developed and added the OpenID connect 2 and CSRF token layer on top of the API Gate System that ensures a more secure way to manage API calls. 
+- Developed and added the OpenID connect 2 and CSRF token layer on top of the API Gate System that ensures a more secure way to manage API calls. 
 - Planned and implemented the unit/regression test for both the API gateway system and the security management project  
 - Technologies involved: Docker, Django, Angular 8, React, Redux, Redux-observable, Selenium, Lua
 
