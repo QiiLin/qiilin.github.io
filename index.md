@@ -48,11 +48,15 @@ Bachelor of Science Software Engineering 2020
 
 Veeva System April. 2021 -> Present 
 Associate Software Engineer - Toronto, ON, Canada
-- Collaborated with Amazon Web Service team to design/implement the remote audit proof of concept project which successfully demonstrates its business value and converts the remote audit idea as a new project starting Jun 2022.
-- Designed and implemented several new hazard analysis process-related features on the Veeva vault platform to improve the hazard analysis workflow efficiency by 32% and automate the hazard data configuration process.
-- Led the migration of the Veeva platform team feature from vault platform to QualityOne app project to support the team role assignment in auditing workflow for the consumer product & chemical industry users.
-- Rollbacked on an existing feature to avoid invalid usage of the product data model and executed data migration solution for any impacted data record to reduce the risk of confusion on the end-user.
-- Technologies involved: Java, React, Redux, Spring Framework, JUnit, Jest, MySQL, Some other Veeva internal technologies
+- Collaborated with Amazon Web Service team to design/implement the remote audit proof of concept project which
+successfully demonstrated its business value and converted the remote audit idea as a real project starting Jun 2022.
+- Designed and implemented several hazard analysis process-related features on the Veeva vault platform to automate the
+hazard data configuration process which improved the hazard analysis workflow efficiency by 32%.
+- Led the migration of the Veeva team feature from vault platform to Quality One app project and supported the team role
+assignment in auditing workflow for the consumer product & chemical industry users.
+- Rollbacked an existing feature to avoid the usage of an invalid product data model and performed a data migration for
+the impacted data records to reduce the risk of confusion on the end-user.
+Technologies involved: Java, React, Redux, Spring Framework, JUnit, Jest, MySQL, Some other Veeva internal technologies
 
 Omnia AI, Deloitte Canada Sept. 2019 - Dec. 2019 
 Software Developer-Internship, 8 Adelaide St West, Toronto, ON, M5H 1L6 
